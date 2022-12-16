@@ -1,7 +1,7 @@
 const Store=()=>{
     return (
-      
-        Store
+      <>     Store</>
+   
     
     )
 }

@@ -1,7 +1,7 @@
 const Care=()=>{
     return (
-      
-        Care
+      <>   Care</>
+     
         
     )
 }
